@@ -87,17 +87,7 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-
 wget -P /root -N --no-check-certificate "https://www.592083.xyz/v2ray-agent/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```
 
-## 2.使用
 
-# 四、反馈和建议
-
-- 提交[issue](https://github.com/mack-a/v2ray-agent/issues)、[加入](https://t.me/technologyshare)群聊
-
-# 五、捐赠
-
-- 感谢您对开源项目的关注和支持。如果您觉得这个项目对您有帮助，欢迎通过以下方式进行捐赠。
-
-- [购买VPS捐赠](https://www.592083.xyz/categories/vps)
 
 - [通过虚拟币向我捐赠](https://www.592083.xyz/1679123834836)
 
